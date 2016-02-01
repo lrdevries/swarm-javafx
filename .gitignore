@@ -1,0 +1,17 @@
+# Eclipse project files
+.classpath
+.project
+.settings/
+.metadata/
+/.apt_generated/
+.DS_Store
+bin/
+
+# Intellij project files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+/target/
+*/log/
